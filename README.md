@@ -2,7 +2,7 @@
 This project is a web-based Employee Management System. It facilitates employee management, including signup, attendance tracking, salary management, and payroll release. The system is designed for HR teams to streamline their workflow efficiently.
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/mohyd2233/Payroll-Mgmt-System/blob/main/github_assets/Employee-Management-System.png" />
 </p>
 
 ## Features
